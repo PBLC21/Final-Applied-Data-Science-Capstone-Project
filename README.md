@@ -1,5 +1,7 @@
 # Final-Applied-Data-Science-Capstone-Project
-Open a BBQ Restaurant in Houston TX
+## Introduction/Business Problem
+
+Open a BBQ Restaurant in Houston, TX.
 
 The problem is to determine the best location in the Houston are to open a BBQ (Barbecue) restaurant Venue.
 
